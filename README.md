@@ -1,3 +1,6 @@
+# Streamlit Link
+-- https://hranalytics-v7gffabh6ytua8wqmogduc.streamlit.app/
+
 # HR Analytics – Streamlit Report
 
 Interactive dashboard on `data/HR_Analytics.xlsx` (sheet `HR_Analytics`).
